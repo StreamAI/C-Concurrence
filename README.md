@@ -1,6 +1,6 @@
 # C-Concurrence
 ## 1. thread library:
-《[C++多线程并发---线程管理](https://blog.csdn.net/m0_37621078/article/details/88608675)》
+《[C++多线程并发---线程创建与管理]( https://blog.csdn.net/m0_37621078/article/details/104909834)》
 
 ## 2. mutex library:
 
